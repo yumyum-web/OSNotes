@@ -1,0 +1,11 @@
+### Misc
+
+# Jetbrains IDE
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Linux
+.directory
